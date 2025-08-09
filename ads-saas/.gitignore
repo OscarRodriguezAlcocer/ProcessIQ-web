@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/.next/
+/out/
+
+# misc
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+.next
+
+# editor
+.vscode
+.idea
